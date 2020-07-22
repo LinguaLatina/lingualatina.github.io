@@ -14,3 +14,4 @@ Some repositories we are currently beginning to develop:
 - [citable digital corpora](https://lingualatina.github.io/texts/)
 - [morphological data sets](https://lingualatina.github.io/morphology/)
 - code libraries, scripts and tools supporting analysis of a corpus to design courses on modern pedagogical principles
+- [Jupyter notebooks](https://github.com/LinguaLatina/lingualatina-ipynb) analyzing corpora for *Lingua Latina* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lingualatina/lingualatina-ipynb/master)
