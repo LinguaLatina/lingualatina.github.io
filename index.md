@@ -3,11 +3,12 @@ layout: page
 title: Lingua Latina
 ---
 
-The `Lingua Latina` organization is developing a new approach to teaching Latin based on contemporary research in pedagogy and linguistics.
+`Lingua Latina` is a collaborative effort to develop a new approach to teaching Latin aimed at engaging students with authentic unaltered texts as early as possible.   We analyze rigorously curated digital text corpora to design introductory course material following principles and best practices taken from contemporary research in pedagogy and linguistics.
 
 Some repositories we are currently beginning to develop:
 
 - textbook and reference materials for an introductory course in Latin, comparable to a first-year course at the college/university level
 - course material from semester- and year-long courses in Latin preparing students to read unaltered Latin texts
-- citable digital corpora with accompanying morphological analysis
-- scripts and tools supporting analysis of a corpus to design courses on modern pedagogical principles
+- citable digital corpora
+- morphological analysis
+- code libraries, scripts and tools supporting analysis of a corpus to design courses on modern pedagogical principles
