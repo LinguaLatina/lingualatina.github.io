@@ -11,7 +11,7 @@ Some repositories we are currently beginning to develop:
 
 - [textbook and reference materials for an introductory course in Latin](https://lingualatina.github.io/textbook/), comparable to a first-year course at the college/university level
 -  [course material](https://lingualatina.github.io/courses/) from semester- and year-long courses in Latin preparing students to read unaltered Latin texts
-- ["low-friction web pages" for reading](citable digital corpora](https://lingualatina.github.io/reading/)
+- ["low-friction web pages" for reading](https://lingualatina.github.io/reading/)
 - [citable digital corpora](https://lingualatina.github.io/texts/)
 - [morphological data sets](https://lingualatina.github.io/morphology/)
 - [code libraries, scripts and tools](https://lingualatina.github.io/analysis/) supporting analysis of a corpus to design courses on modern pedagogical principles
