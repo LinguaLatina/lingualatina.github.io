@@ -9,7 +9,7 @@ title: Lingua Latina
 
 Some repositories we are currently beginning to develop:
 
-- textbook and reference materials for an introductory course in Latin, comparable to a first-year course at the college/university level
+- [textbook and reference materials for an introductory course in Latin](https://lingualatina.github.io/textbook/), comparable to a first-year course at the college/university level
 -  [course material](https://lingualatina.github.io/courses/) from semester- and year-long courses in Latin preparing students to read unaltered Latin texts
 - "low-friction web pages" for reading
 - [citable digital corpora](https://lingualatina.github.io/texts/)
