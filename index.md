@@ -5,7 +5,7 @@ title: Lingua Latina Legenda
 
 # Lingua Latina Legenda
 
-*Lingua Latina Legenda* is a collaborative effort to develop a new approach to teaching Latin aimed at engaging students with authentic unaltered texts as early as possible.   We analyze rigorously curated digital text corpora to design introductory course material following principles and best practices taken from contemporary research in pedagogy and linguistics.
+*Lingua Latina Legenda* (L3) is a collaborative effort to develop a new approach to teaching Latin aimed at engaging students with authentic unaltered texts as early as possible.   We analyze rigorously curated digital text corpora to design introductory course material following principles and best practices taken from contemporary research in pedagogy and linguistics.
 
 Some repositories we are currently beginning to develop:
 
