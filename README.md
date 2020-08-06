@@ -1,3 +1,3 @@
 # lingualatina.github.io
 
-Source for the project home page at <https://lingualatina.github.io/>.
+Source for the home page of the *Lingua Latina Legenda* project.  See <https://lingualatina.github.io/>.
