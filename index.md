@@ -10,7 +10,9 @@ title: Lingua Latina Legenda
 Some repositories we are currently beginning to develop:
 
 - [textbook and reference materials for an introductory course in Latin](https://lingualatina.github.io/textbook/), comparable to a first-year course at the college/university level
--  [course material](https://lingualatina.github.io/courses/), including videos from [our youtube channel](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/), and material from semester- and year-long courses in Latin preparing students to read unaltered Latin texts
+-  [course material](https://lingualatina.github.io/courses/), including material from semester- and year-long courses in Latin preparing students to read unaltered Latin texts, and links to
+    - [our youtube channel](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/)
+    - [our collections of Obserable notebook](https://observablehq.com/@l3?tab=collections) 
 - [citable digital corpora](https://lingualatina.github.io/texts/)
 - [morphological data sets](https://lingualatina.github.io/morphology/)
 - [code libraries, scripts and tools](https://lingualatina.github.io/analysis/) supporting analysis of a corpus to design courses on modern pedagogical principles
